@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "vrip",
+    "packageName": "com.nibodha.vrip",
+    "packageFolder": "com/nibodha/vrip",
+    "authenticationType": "oauth2",
+    "hibernateCache": "hazelcast",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "7",
+    "rememberMeKey": "be1ad7246d1f09abbb72be05ddcf2d6eb503a848"
+  }
+}
